@@ -1,0 +1,25 @@
+{
+  "name": "@chashitsu/chashitsu-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chashitsu-org/chashitsu-test-2.git"
+  },
+  "author": "Matsuyuki <matsuyuki.eca@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/chashitsu-org/chashitsu-test-2/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/chashitsu-org/chashitsu-test-2#readme",
+  "dependencies": {
+    "@chashitsu/chashitsu-test-1": "^1.0.7"
+  }
+}
